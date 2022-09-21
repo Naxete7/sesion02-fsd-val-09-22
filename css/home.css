@@ -1,0 +1,35 @@
+body {
+    margin: 0 0 0 0;
+}
+
+div {
+    width: 100vw;
+}
+
+#div1 {
+    background-color: blue;
+    height: 15vh;
+}
+
+#div2 {
+    background-color: red;
+    height: 65vh;
+    display: flex;
+}
+
+#div2-izq {
+    background-color: aqua;
+    height: 65vh;
+    width: 15vw;
+}
+
+#div2-der {
+    background-color: blueviolet;
+    height: 65vh;
+    width: 55vw;
+}
+
+#div3 {
+    background-color: green;
+    height: 30vh;
+}
